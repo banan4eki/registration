@@ -1,0 +1,193 @@
+.start {
+    width: 50%;
+    height: 50%;
+    color: rgb(255, 148, 8);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    background: #7a001f;
+    border-radius: 10px;
+}
+
+.reg {
+    width: 50%;
+    height: 50%;
+    color: rgb(211, 123, 9);
+    background: #7a001f;
+    border-radius: 15%;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16%;
+}
+
+.front {
+    background: #a30029;
+}
+
+.test1 {
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 25px;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 100px;
+}
+
+
+
+.test2 {
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px ;
+    color: white;
+}
+.test3{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+    color: white;
+}
+
+.gender{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 75px;
+    padding: 10px;
+    
+}
+.gender1{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 30PX;
+    color: white;
+}
+.test{
+    margin-left: 500px;
+    margin-right: 500px;
+    color: white;
+
+}
+.foto{
+    background-image: url(./img/21467-prostranstvo-zvezda-minimalizm-kosmos-atmosfera-1920x1080.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+.age{
+    margin-left: 500px;
+    margin-right: 500px;
+    color: white;
+}
+.date{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+    color: white;
+padding: 10px;
+
+}
+.On{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+    color: white;
+    
+    padding: 10px;
+    padding-left: 30px;
+}
+.tocome{
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 10px;
+    
+    background: #7a001f;
+    color: rgb(211, 123, 9);
+    border-radius: 10px;
+    
+}
+.tocome1{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+    
+    background: #7a001f;
+    color: rgb(211, 123, 9);
+    border-radius: 10px;
+}
+
+.fon2{
+    background: #a30029;
+}
+.in{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 135px;
+    
+}
+.glav{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 200px;
+    color: white;
+    
+}
+.poc{margin-left: 500px;
+    margin-right: 500px;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.porol{
+    margin-left: 500px;
+    margin-right: 500px;
+    color: white;
+    padding-bottom: 10px;
+}
+.voti{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 50px;
+    color: white;
+    
+}
+.fon3{
+    background: #a30029;
+    
+}
+.body2{
+    
+    background: #a30029;
+}
+
+.html{
+    width: 75px;
+    
+    color: red;
+    background: rgb(156, 210, 30);;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.inf{
+    color: rgb(175, 103, 98);
+}
+.css{
+    width: 60px;
+    color: red;
+    background: rgb(156, 210, 30);;
+    margin-left: auto;
+    margin-right: auto;
+}
+.javascript{
+    width: 145px;
+    
+    color: red;
+    background: rgb(156, 210, 30);
+    margin-left: auto;
+    margin-right: auto;
+
+}
